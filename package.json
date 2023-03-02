@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice-sophrone",
+  "version": "1.0.0",
+  "description": "The Odin project testing practice using jest",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyve-Mind/testing-practice-sophrone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyve-Mind/testing-practice-sophrone/issues"
+  },
+  "homepage": "https://github.com/Hyve-Mind/testing-practice-sophrone#readme"
+}
