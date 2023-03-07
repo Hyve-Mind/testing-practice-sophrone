@@ -21,7 +21,7 @@ const calculator = {
   },
 };
 
-function caesarCipher(string, shift) {
+function caesarCipher(string, shift = 1) {
   const inputInArray = string.split("");
 
   inputInArray.forEach(function (value, i) {
